@@ -1,0 +1,33 @@
+{
+	"name": "partido",
+	"version": "0.0.1",
+	"author": "DJW",
+	"description": "Partido Application ",
+	"contributors": [{
+		"name": "Deepak Venkatachalam",
+		"email": "dipak2911@gmail.com"
+	}, {
+		"name" : "Jude Ken Kwofie"
+	}, {
+		"name" : "William Velez"
+	}],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:wxvst2/partido.gitt"
+	},
+	"main": "app.js",
+	"dependencies": {
+		"async": "x.x.x",
+		"bcrypt-nodejs": "x.x.x",
+		"body-parser": "x.x.x",
+		"connect": "x.x.x",
+		"express": "3.x",
+		"lodash": "^2.4.1",
+		"method-override": "x.x.x",
+		"moment": "^2.7.0",
+		"moment-timezone": "^0.1.0",
+		"nconf": "^0.6.9",
+		"underscore": "x.x.x",
+		"underscore.string": "^2.3.3"
+	}
+}
