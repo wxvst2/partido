@@ -20,7 +20,7 @@
 		"async": "x.x.x",
 		"bcrypt-nodejs": "x.x.x",
 		"body-parser": "x.x.x",
-		"connect": "x.x.x",
+		"cookie-parser" : "x.x.x",
 		"express": "3.x",
 		"lodash": "^2.4.1",
 		"method-override": "x.x.x",
